@@ -18,12 +18,7 @@ Campus Quest es un juego sencillo, no violento y de temática universitaria. El 
 - Flechas del teclado: mover al estudiante.
 - Objetivo: juntar tareas y llegar al portal de entrega final.
 
-## Pendiente para Fase 3
-- Agregar pantalla de inicio e instrucciones.
-- Mejorar sprites y música.
-- Agregar segundo nivel con mayor dificultad.
-- Ajustar velocidad de obstáculos según validación de usuarios.
-- Grabar video final del funcionamiento.
+
 
 ## Estructura
 - `CampusQuestWorld.java`: mundo principal, HUD y reglas generales.
