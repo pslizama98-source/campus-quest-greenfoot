@@ -1,0 +1,19 @@
+Fase 3 - Campus Quest
+Integrantes: John Lizama y Santiago Martinez
+
+Antes de entregar:
+1. Subir Campus_Quest_Demo_Fase3_H264.mp4 a YouTube, Google Drive u otra plataforma similar.
+2. Pegar el enlace del video dentro del documento Word, en la seccion 4.
+3. Crear o confirmar el repositorio:
+   https://github.com/pslizama98-source/campus-quest-greenfoot
+4. Subir el contenido de Campus_Quest_Greenfoot_Final_Source.zip al repositorio.
+5. Dar acceso a auxiliares y catedratico si el repositorio es privado.
+
+Archivos incluidos:
+- Fase_3_Finalizacion_Campus_Quest.pdf
+- Fase_3_Finalizacion_Campus_Quest.docx
+- Campus_Quest_Greenfoot_Final_Source.zip
+- Campus_Quest_Demo_Fase3_H264.mp4
+- Campus_Quest_Material_Promocional.pdf
+- Campus_Quest_Poster_Promocional.png
+- Campus_Quest_Story_Promocional.png
