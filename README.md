@@ -5,7 +5,7 @@ Repositorio inicial para el Proyecto Corto No. 4 de Introducción a la Ingenier�
 ## Idea del juego
 Campus Quest es un juego sencillo, no violento y de temática universitaria. El jugador controla a un estudiante que debe recoger tareas, recuperar energía con café y evitar nubes de estrés para llegar a la entrega final.
 
-## Estado actual de la Fase 2
+## Estado final de la Fase 3
 - Mundo principal creado en Greenfoot.
 - Actor jugador con movimiento por teclado.
 - Objetos coleccionables que suman puntos.
